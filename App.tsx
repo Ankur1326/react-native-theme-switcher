@@ -4,7 +4,6 @@
  *
  * @format
  */
-
 import React from 'react';
 import {ThemeProvider} from './src/context/ThemeContext.tsx';
 import Theme from './src/Component/Theme.tsx';
